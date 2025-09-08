@@ -1,1 +1,15 @@
+
+print("2번파일")
+
+print("2번파일")
+print("2번파일")
+print("2번파일")
+print("2번파일")
+print("2번파일")
+print("2번파일")
+print("2번파일")
+print("2번파일")
+print("2번파일")
+print("2번파일")
+print("2번파일")
 print("2번파일")
